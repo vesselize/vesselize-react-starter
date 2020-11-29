@@ -1,10 +1,12 @@
 # vesselize-react-starter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f99e2ce3-f467-436e-9004-96a6b84bcb4c/deploy-status)](https://app.netlify.com/sites/vesselize-react-starter/deploys)
+
 🌱 Getting Started with Vesselize and React.
 
 ## Preview
 
-<https://vesselize-react-starter.netlify.app/>
+<https://vesselize-react-starter.netlify.app>
 
 ## Docs
 
